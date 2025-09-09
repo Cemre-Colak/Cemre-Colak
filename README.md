@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Cemre Çolak
 
-<!--
-**Cemre-Colak/Cemre-Colak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** focused on Python, FastAPI, Flask, React & SQL.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+- 🔭 I’m currently working on MERN Projects 
+- 🌱 I’m currently learning Node.js MongoDB, Express.js 
+
+---
+
+##  Technical Skills
+
+- **Languages:** Python, JavaScript (ES6+), SQL  
+- **Frameworks/Libraries:** FastAPI, Flask, React  
+- **Databases:** PostgreSQL, Oracle, MS SQL Server  
+- **Tools:** Docker, Git, SQLAlchemy, Postman, Linux  
+
+---
+
+##  Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cemrecolak/)  
+📧 cemretom@gmail.com
